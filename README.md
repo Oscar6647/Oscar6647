@@ -32,9 +32,6 @@ Hi I'm Oscar a College Junior mayoring in Robotic Engineering and Digital System
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Oscar6647&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar6647&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=ocg01)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Oscar6647&icon=1&color=1)](https://visitcount.itsvg.in)
 
