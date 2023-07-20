@@ -35,7 +35,7 @@ Hi I'm Oscar a College Junior mayoring in Robotic Engineering and Digital System
 # 🎶 My Spotify:
 While I code I love to listen to music, here's a snipet of my taste: 
 <br><br>
-[![https://spotify-github-profile.vercel.app/api/view.svg?uid=xyds10httbz1d564cohwui45g&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=xyds10httbz1d564cohwui45g&cover_image=true&theme=default&show_offline=true&background_color=0b3d91&interchange=true&bar_color=fc3d21&bar_color_cover=true)]]
+![[https://spotify-github-profile.vercel.app/api/view.svg?uid=xyds10httbz1d564cohwui45g&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=xyds10httbz1d564cohwui45g&cover_image=true&theme=default&show_offline=true&background_color=0b3d91&interchange=true&bar_color=fc3d21&bar_color_cover=true)]]
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xyds10httbz1d564cohwui45g)
 
 ---
