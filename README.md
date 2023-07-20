@@ -34,6 +34,7 @@ Hi I'm Oscar a College Junior mayoring in Robotic Engineering and Digital System
 
 # 🎶 My Spotify:
 While I code I love to listen to music, here's a snipet of my taste: 
+<br><br>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xyds10httbz1d564cohwui45g)
 
 ---
