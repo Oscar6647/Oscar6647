@@ -32,6 +32,10 @@ Hi I'm Oscar a College Junior mayoring in Robotic Engineering and Digital System
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Oscar6647&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar6647&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 🎶 My Spotify:
+While I code I love to listen to music, here's a snipet of my taste: 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xyds10httbz1d564cohwui45g)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Oscar6647&icon=1&color=1)](https://visitcount.itsvg.in)
 
