@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - Something to save my ass x2
+-Currently Recording audio fro SpacePod s2
 - I am writting the scripts for spacepod and i don't have time to work on my personal projects smh
 -->
 # 💫 About Me:
