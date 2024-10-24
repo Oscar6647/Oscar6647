@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - I am writting the scripts for spacepod and i don't have time to work on my personal projects smh
 -->
 # 💫 About Me:
-Hi I'm Oscar a College Junior mayoring in Robotic Engineering and Digital Systems based in Mexico.<br>I'm passionite about machine learning, Ai and of course Robotics<br>I enjoy building personal projects as well as compiting in Hackathons.<br>In my spare time I like to do Astronomy, and work on my podcast SpacePod.<br>Feel free to check out my portfolio and projects, and don't hesitate to reach out if you'd like to connect or collaborate.
+Hi I'm Oscar a College Senior mayoring in Robotic Engineering and Digital Systems based in Mexico.<br>I'm passionite about machine learning, Ai and of course Robotics<br>I enjoy building personal projects as well as compiting in Hackathons.<br>In my spare time I like to do Astronomy, and work on my podcast SpacePod.<br>Feel free to check out my portfolio and projects, and don't hesitate to reach out if you'd like to connect or collaborate.
 
 
 ## 🌐 Socials:
