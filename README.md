@@ -42,8 +42,8 @@ Research Student @ Kyushu Institute of Technology (Kyutech)
 
 ## Highlights
 - 🏆 NASA SpaceApps Global Top 40 Finalist
-- 🚀 Avionics & Payload Lead @ Monterrey Rocket Lab  
-- 🤖 FRC Mentor & Coach — Nuts & Volts 7725
+- 🚀 Former Avionics & Payload Lead @ Monterrey Rocket Lab  
+- 🤖 Former FRC Mentor & Coach — Nuts & Volts 7725
 - 📄 Published @ ARSO 2025
 
 # 🎶 My Spotify:
