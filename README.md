@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 - I am writting the scripts for spacepod and i don't have time to work on my personal projects smh
 -->
 # 💫 About Me:
-Hi I'm Oscar a College Senior mayoring in Robotic Engineering and Digital Systems based in Mexico.<br>I'm passionite about machine learning, Ai and of course Robotics<br>I enjoy building personal projects as well as compiting in Hackathons.<br>In my spare time I like to do Astronomy, and work on my podcast SpacePod.<br>Feel free to check out my portfolio and projects, and don't hesitate to reach out if you'd like to connect or collaborate.
+Hi I'm Oscar, Robotic and Digital Systems Engineer from Monterrey, Mexico.<br>I'm passionite about machine learning, Ai and of course Robotics<br>I enjoy building personal projects as well as compiting in Hackathons.<br>In my spare time I like to do Astronomy, and work on my podcast SpacePod.<br>Feel free to check out my portfolio and projects, and don't hesitate to reach out if you'd like to connect or collaborate.
+
+
+# 🔭 Currently:
+Research Student @ Kyushu Institute of Technology (Kyutech)
 
 
 ## 🌐 Socials:
@@ -34,6 +38,13 @@ Hi I'm Oscar a College Senior mayoring in Robotic Engineering and Digital System
 ![](https://github-readme-stats.vercel.app/api?username=Oscar6647&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Oscar6647&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar6647&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## Highlights
+- 🏆 NASA SpaceApps Global Top 40 Finalist
+- 🚀 Avionics & Payload Lead @ Monterrey Rocket Lab  
+- 🤖 FRC Mentor & Coach — Nuts & Volts 7725
+- 📄 Published @ ARSO 2025
 
 # 🎶 My Spotify:
 While I code I love to listen to music, here's a snipet of my taste: 
