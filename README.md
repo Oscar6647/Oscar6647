@@ -24,7 +24,8 @@ Hi I'm Oscar, Robotic and Digital Systems Engineer from Monterrey, Mexico. Curre
 # 🔭 Currently:
 Master's Student @ Kyushu Institute of Technology (Kyutech)<br>
 ADCS Team Member (Software Engineer): 🛰️ BIRDS RPM (KUMO)<br>
-
+Developing **[REDACTED]**, sorry, launching to public soon! <br>
+**Target Date: Nov 19 2026 10:30 JST**
 
 
 ## 🌐 Socials:
